@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f49995e3-3325-4bae-8987-a0b4440df59a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f7c594OifxppZDIcdGnnZkcc2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f49995e3-3325-4bae-8987-a0b4440df59a" name="Default Changelist" comment="" />
+      <created>1595572385435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595572385435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595576629685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595576629685" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595824932200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595824932200" />
+    <state x="110" y="120" width="1146" height="488" key="dock-window-1" timestamp="1595596075172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1595596075172" />
+    <state x="110" y="120" width="1146" height="488" key="dock-window-2" timestamp="1595596075172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1595596075172" />
+  </component>
+</project>
